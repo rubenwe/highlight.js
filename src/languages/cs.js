@@ -17,7 +17,7 @@ function(hljs) {
       'uint ulong unchecked unsafe ushort using virtual void volatile while ' +
       // Contextual keywords.
       'add alias ascending async await by descending dynamic equals from get global group into join ' +
-      'let on orderby partial remove select set value var where yield',
+      'let on orderby partial remove select set value var when where yield',
     literal:
       'null false true'
   };
